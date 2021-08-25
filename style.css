@@ -1,5 +1,9 @@
 /* Stylesheet My Private Wiki */
 
+html, body {
+  background-color: #e3e3e3;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto';
 }
